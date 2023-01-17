@@ -7,3 +7,14 @@
   - [Procedural Programming](https://github.com/jimin-kiim/OOP/issues/2#issuecomment-1276012492)
   - [Modular Programming](https://github.com/jimin-kiim/OOP/issues/2#issuecomment-1276018067)
   - [Object Oriented Programming](https://github.com/jimin-kiim/OOP/issues/2#issuecomment-1276037772)
+
+<br>
+
+- [ADT](https://github.com/jimin-kiim/OOP/issues/3#issuecomment-1276112484)
+- [Encapsulation, Information Hiding](https://github.com/jimin-kiim/OOP/issues/3#issuecomment-1276127244)
+- [Inheritance](https://github.com/jimin-kiim/OOP/issues/3#issuecomment-1276154584)
+- [Polymorphism](https://github.com/jimin-kiim/OOP/issues/3#issuecomment-1276166740)
+
+<br>
+
+- [UML](https://github.com/jimin-kiim/OOP/issues/12#issue-1499592083)
