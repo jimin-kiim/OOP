@@ -1,17 +1,18 @@
 package delegationProblem;
 
 public class Manager extends EmployeeType {
-	double salary;
-	
-	public Manager (double salary) {
-		this.salary = salary;
+	public Manager(double salary) {
+		super(salary);        
 	}
-	
+	    
+	public Manager() {
+		this(0);
+	}
+		
 	@Override
 	public void increaseSalary(double rate) {
 		salary += 10;
 		salary += salary * rate;
 		
 	}
-	
 }
