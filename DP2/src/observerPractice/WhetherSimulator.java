@@ -12,6 +12,7 @@ public class WhetherSimulator {
 		//observer objects
 		UmbrellaStore umbrellaStore = new UmbrellaStore(wdSubject);
 		ClothingStore clothingStore = new ClothingStore(wdSubject);
+		IceCreamStore iceCreamStore = new IceCreamStore(wdSubject);
 		
 		wdSubject.currentState();
 		wdSubject.notifyDataSetChanged();

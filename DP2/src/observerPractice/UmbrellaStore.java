@@ -26,6 +26,6 @@ public class UmbrellaStore implements Observer {
 	}
 
 	public void isSelling() {
-		System.out.println("Umbrellas Sale !");
+		System.out.println("Umbrellas Selling !: " + sellingState);
 	}
 }
