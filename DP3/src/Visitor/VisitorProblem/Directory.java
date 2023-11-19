@@ -27,7 +27,7 @@ public class Directory extends Entry {
     public Iterator iterator() {             
         return dir.iterator();
     }
-    public void accept(Visitor v) {         // ¹æ¹®ÀÚ ½Â³«
+    public void accept(Visitor v) {
         v.visit(this);              
     }                           
 }
